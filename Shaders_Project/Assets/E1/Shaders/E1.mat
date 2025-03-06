@@ -39,16 +39,16 @@ Material:
     m_Ints: []
     m_Floats:
     - _DEBUG: 0
-    - _Depth_Blend: 0.5
-    - _Fresnel_Power: 5
+    - _Depth_Blend: 0.84
+    - _Fresnel_Power: 2.8
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Scanline_Density: 50
-    - _Scanline_Speed: -0.1
-    - _Texture_Speed: 2.53
+    - _Scanline_Speed: 4.27
+    - _Texture_Speed: 2
     m_Colors:
     - _Color: {r: 0, g: 6.933769, b: 23.96863, a: 1}
-    - _Texture_Tiling: {r: 16, g: 20, b: 0, a: 0}
+    - _Texture_Tiling: {r: 15, g: 15, b: 15, a: 15}
   m_BuildTextureStacks: []
 --- !u!114 &563448132069296749
 MonoBehaviour:
