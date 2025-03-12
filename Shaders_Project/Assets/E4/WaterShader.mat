@@ -104,6 +104,7 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
+    - _CellDensity: 5
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
@@ -117,9 +118,12 @@ Material:
     - _EnvironmentReflections: 1
     - _FoamCoastDepth: 10
     - _FoamContrast: 5
+    - _FoamDensity: 5
     - _FoamDistorsionAmount: 0.25
     - _FoamDistorsionScale: 2
     - _FoamLevel: 50
+    - _FoamSpeed: 1
+    - _FoamTranquilidad: 4
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -142,9 +146,10 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0, g: 1, b: 0.85711694, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DepthTint: {r: 0, g: 1, b: 0.742626, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
