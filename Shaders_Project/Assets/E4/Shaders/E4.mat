@@ -45,8 +45,8 @@ Material:
     - _DEBUG: 0
     - _Depth_Range: 5
     - _Distortion_Amount: 0.1
-    - _Foam_CoastDepth: 5.1
-    - _Foam_Contrast: 2
+    - _Foam_CoastDepth: 6.05
+    - _Foam_Contrast: 4.33
     - _Foam_Distortion_Amount: 0.25
     - _Foam_Distortion_Scale: 2
     - _Foam_Level: 10
