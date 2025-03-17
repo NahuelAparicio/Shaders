@@ -67,16 +67,16 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _CastShadows: 0
     - _Cull: 2
-    - _DepthRange: 45.87
+    - _DepthRange: 39
     - _DstBlend: 10
-    - _FoamCoastDepth: 3.93
-    - _FoamContrast: 1.9
-    - _FoamDistorsionAmount: 1.25
-    - _FoamDistorsionScale: 1.21
-    - _FoamLevel: 50
+    - _FoamCoastDepth: 6.29
+    - _FoamContrast: 2.75
+    - _FoamDistorsionAmount: 0.2
+    - _FoamDistorsionScale: 1.34
+    - _FoamLevel: 51.88
     - _NormalAnimationSpeed: 0.1
     - _NormalScale: 1
-    - _NormalStrength: 2
+    - _NormalStrength: 0.49
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 0
@@ -87,6 +87,6 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 0.2672659, g: 0.735849, b: 0.6224026, a: 0}
-    - _DepthTint: {r: 0.38652548, g: 0.8113208, b: 0.5082642, a: 0}
+    - _Color: {r: 0.054245293, g: 0.09564073, b: 0.5, a: 0}
+    - _DepthTint: {r: 0, g: 1, b: 0.7498157, a: 0}
   m_BuildTextureStacks: []
