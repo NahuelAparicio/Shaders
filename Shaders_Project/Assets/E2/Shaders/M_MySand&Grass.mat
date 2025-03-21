@@ -85,6 +85,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: b32994eb734cd914aa2276e4d7550afe, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_686e0386abf948ac93748556b88c019b_Texture_1_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Sand_MaskMap:
         m_Texture: {fileID: 2800000, guid: 1108a5d0b8337de45bbc10c8e93a297f, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -111,7 +115,9 @@ Material:
     - _B_NormalStrength: 1
     - _Base_Strength: 1
     - _Base_Tile: 10
+    - _Blend: -36.23
     - _BlendAmount: 1
+    - _NoiseStrength: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Red_Strength: 1
