@@ -115,13 +115,14 @@ Material:
     - _B_NormalStrength: 1
     - _Base_Strength: 1
     - _Base_Tile: 10
-    - _Blend: -36.23
+    - _Blend: 0.57
     - _BlendAmount: 1
-    - _NoiseStrength: 0
+    - _NoiseStrength: 0.587
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Red_Strength: 1
     - _Red_Tile: 10
+    - _Softness: 0.384
     m_Colors:
     - _A_Color: {r: 1, g: 1, b: 1, a: 0}
     - _B_Color: {r: 1, g: 1, b: 1, a: 0}
