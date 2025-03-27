@@ -63,17 +63,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blend: 0
-    - _Float: 0
-    - _NormalStrength: 1
+    - _Blend: 150
+    - _Float: 0.9
+    - _NormalStrength: 1.22
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SnowMetallic: 0
-    - _SnowNormalScale: 0
+    - _SnowNormalScale: 100
     - _SnowNormalStrength: 1
-    - _SnowSmoothness: 0.02
-    - _SnowSoftness: 0.05
-    - _SnowStart: 0.82
+    - _SnowSmoothness: 0
+    - _SnowSoftness: 0.29
+    - _SnowStart: 0.97
     - _Tile: 0.75
     - _blendMaskStrength: 0
     m_Colors:
