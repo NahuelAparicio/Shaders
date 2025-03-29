@@ -79,7 +79,7 @@ Material:
     - _SnowNormalStrength: 2
     - _SnowSmoothness: 0.5
     - _SnowSoftness: 0.233
-    - _SnowStart: -0.95
+    - _SnowStart: -0.222
     - _SrcBlend: 1
     - _Surface: 0
     - _Tile: 3
