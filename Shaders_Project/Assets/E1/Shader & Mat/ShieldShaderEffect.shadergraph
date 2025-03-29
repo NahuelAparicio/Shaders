@@ -2507,7 +2507,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "12e9478e799540ed915d17d7605af630",
     "m_Id": 0,
-    "m_DisplayName": "blend",
+    "m_DisplayName": "Blending",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -11414,10 +11414,10 @@
     "m_Guid": {
         "m_GuidSerialized": "3da68430-6be0-4568-a795-6107bbe996d3"
     },
-    "m_Name": "blend",
+    "m_Name": "Blending",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "blend",
-    "m_DefaultReferenceName": "_blend",
+    "m_RefNameGeneratedByDisplayName": "Blending",
+    "m_DefaultReferenceName": "_Blending",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
